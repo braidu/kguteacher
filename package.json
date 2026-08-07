@@ -1,0 +1,9 @@
+{
+  "name": "kyonggi-gyojik-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "경기대학교 교직이수 플랫폼",
+  "dependencies": {
+    "@vercel/kv": "^2.0.0"
+  }
+}
